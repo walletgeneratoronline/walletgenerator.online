@@ -1,0 +1,2 @@
+# walletgenerator.online
+WalletGenerator.online Universal Client-Side Wallet Generator  Now crypto-currency wallets addresses and their corresponding private key can be conveniently generated in a web browser.  The WalletGenerator.net project provides an all-in-one HTML document with embedded JavaScript/Css/Images. The JavaScript is readable, not minified and contains no XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not change after being loaded.
